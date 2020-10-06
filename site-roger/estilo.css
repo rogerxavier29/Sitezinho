@@ -1,5 +1,6 @@
 .menu{
     background-color:#20B2AA;
     height: 100px;
-
+    padding: 5px;
+    text-align: left;
 }

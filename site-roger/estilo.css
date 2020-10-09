@@ -138,3 +138,39 @@
     border-color: indigo;
     cursor:pointer;
 }
+
+.futproj{
+    border-top-style: double;
+    width: 100%;
+    height: 500px;
+    background-color:#00CED1;
+}
+
+#fut{
+    margin-top:40px;
+    margin-left: 20px;
+}
+
+.proj1{
+    width: 200px;
+    height:155px;
+    position: absolute;
+    background-color: #778899;
+    margin-top: 20px;
+    margin-left:150px;
+    border-style: ridge;
+    border-width: 10px;
+    cursor: pointer;
+}
+
+.proj2{
+    width:200px;
+    height:155px;
+    position: absolute;
+    background-color: #778899;
+    margin-top: 20px;
+    margin-left:560px;
+    border-style: ridge;
+    border-width:10px;
+    cursor:pointer;
+}   

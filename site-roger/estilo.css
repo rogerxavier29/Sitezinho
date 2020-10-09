@@ -68,7 +68,11 @@
     width:239px;
     height:258px;
     background-color: gray;
-    margin-top: 50px;
+    margin-top: 60px;
     margin-left: 30px;
-
+    border-style:groove;
+    border-width: 10px;
+    border-color: #483D8B;
+    cursor: pointer;
 }
+

@@ -56,3 +56,10 @@
     box-shadow: 0 0 0 0 #4B0082, inset 3px 3px 3px #4B0082;
     transform: translate(3px 3px);
 }
+
+.home{
+    background:#B0E0E6;
+    width: 1008px;
+    height: 500px;
+    border-top-style: double;
+}

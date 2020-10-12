@@ -15,6 +15,7 @@ $body = "Nome: ".$nome."\n".
         "Mensagem: ".$mensagem."\n";
 $header = "From:roger@dpx@gmail.com"."\r\n"
            ."Reply-to:".$email."\r\n"
+           ."X=mailer:PHP/".phpversion();
 
 }
 

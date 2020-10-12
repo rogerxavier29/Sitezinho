@@ -7,6 +7,9 @@ $email = addcslashes($_POST['email'])
 $assunto = addcslashes($_POST['assunto'])
 $mensagem = addslashes($_POST['message'])
 
+
+$to = "rogerdpx@gmail.com"
+
 }
 
 ?>

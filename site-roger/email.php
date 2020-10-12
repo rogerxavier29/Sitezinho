@@ -13,7 +13,8 @@ $body = "Nome: ".$nome."\n".
         "Email: ".$email."\n".
         "Assunto: ".$assunto."n".
         "Mensagem: ".$mensagem."\n";
-$header = "From:roger@dpx@gmail.com"."\r\n".
+$header = "From:roger@dpx@gmail.com"."\r\n"
+           ."Reply-to:".$email."\r\n"
 
 }
 

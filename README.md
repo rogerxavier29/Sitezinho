@@ -1,2 +1,2 @@
 # Sitezinho
- Meu primeiro Site - (HTML - CSS - JS)
+ Meu primeiro Site - (HTML - CSS - PHP)

@@ -185,5 +185,46 @@
 #feedh3{
     margin-top:40px;
     margin-left:20px;
+}  
 
-}    
+.form{
+    display:flex;
+    flex-direction:column;
+}
+
+#Nome{
+    margin-left: 50px;
+    width: 400px;
+    height: 20px;
+}
+
+#Email{
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 400px;
+    height: 20px;
+
+}
+
+#Assunto{
+    margin-top: 20px;
+    margin-left: 50px;
+    width:400px ;
+    height: 20px;
+}
+
+#Mens{
+    margin-top:20px;
+    margin-left: 50px;
+    width: 400px;
+    height: 150px;
+}
+
+#btnenviar{
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 50px;
+    width: 408px;
+    height: 30px;
+
+}

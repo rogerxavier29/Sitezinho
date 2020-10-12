@@ -230,6 +230,16 @@
 }
 
 .rodape{
-    margin-top: 60px;
-    margin-left:450px;
+    width: 100%;
+    height:50px;
+    border-top-style: double;
+    background-color:#20B2AA;
+    border-
+}
+
+#textroda{
+    margin-left: 450px;
+    margin-top: 30px;
+
+
 }

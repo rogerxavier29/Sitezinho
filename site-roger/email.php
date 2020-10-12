@@ -19,7 +19,7 @@ $header = "From:roger@dpx@gmail.com"."\r\n"
 
 if (mail($to,$body,$header)){
 
-        echo("Email enviado com sucesso!");
+        echo("Email enviado com sucesso!");;
 }else{
         echo("Email não pode ser enviado!");
 }           

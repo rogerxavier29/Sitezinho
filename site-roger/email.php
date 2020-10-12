@@ -8,11 +8,12 @@ $assunto = addcslashes($_POST['assunto'])
 $mensagem = addslashes($_POST['message'])
 
 
-$to = "rogerdpx@gmail.com"
-$body = "Nome: ".$nome."\n"
-        "Email: ".$email."\n"
-        "Assunto: ".$assunto."n"
+$to = "rogerdpx@gmail.com";
+$body = "Nome: ".$nome."\n".
+        "Email: ".$email."\n".
+        "Assunto: ".$assunto."n".
         "Mensagem: ".$mensagem."\n";
+$header = "From:roger@dpx@gmail.com"."\r\n".
 
 }
 
